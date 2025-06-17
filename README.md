@@ -12,15 +12,14 @@
 
 ## 📂 Featured Projects
 
-### 🛒 MERN E-Commerce App  
-Full-stack app with admin panel, authentication, and cart system  
-🌐 [Live Demo](https://your-demo-link.com)  
-📁 [GitHub Repo](https://github.com/yourusername/ecommerce-app)
+### 🛒 MERN Product Store  
+A MERN stack app with CRUD operations and smooth UI using Framer Motion.  
+🌐 [Live Demo](https://product-store-production-8870.up.railway.app/products)  
+📁 [GitHub Repo](https://github.com/Manish1240/Product-Store.git)
 
 ### 💼 Developer Portfolio  
-Responsive and animated portfolio website using React + Tailwind + Framer Motion  
-🌐 [Live Demo](https://your-portfolio-link.com)  
-📁 [GitHub Repo](https://github.com/yourusername/portfolio)
+Responsive and animated portfolio website using React + Tailwind + Framer Motion.  
+🌐 [Live Demo](https://manish1240.github.io/Manish-kumar-portfolio/)  
+📁 [GitHub Repo](https://github.com/Manish1240/Manish-kumar-portfolio)
 
 > More awesome projects coming soon 🚧
-
