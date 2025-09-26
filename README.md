@@ -14,8 +14,8 @@
 
 ### 🛒 MERN Product Store  
 A MERN stack app with CRUD operations and smooth UI using Framer Motion.  
-🌐 [Live Demo](https://product-store-production-8870.up.railway.app/products)  
-📁 [GitHub Repo](https://github.com/Manish1240/Product-Store.git)
+🌐 [Live Demo](https://product-store-admin.vercel.app/)  
+📁 [GitHub Repo](https://github.com/Manish1240/Product-Store-AdminPage)
 
 ### 💼 Developer Portfolio  
 Responsive and animated portfolio website using React + Tailwind + Framer Motion.  
