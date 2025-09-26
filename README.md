@@ -11,6 +11,14 @@
 - **Tools:** Git, GitHub, Postman, Vercel, Netlify
 
 ## 📂 Featured Projects
+## ✅ Task Management Web App
+
+📌 A task assignment tool where managers can assign tasks to employees.
+⚡ Built with React + Tailwind CSS for a modern UI and smooth experience.
+🌐 [Live Demo](https://task-management-webapp-nine.vercel.app/)  
+📁 [GitHub Repo](https://github.com/Manish1240/Task_management_webapp)
+
+
 
 ### 🛒 MERN Product Store  
 A MERN stack app with CRUD operations and smooth UI using Framer Motion.  
