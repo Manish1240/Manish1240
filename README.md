@@ -10,7 +10,17 @@
 - **Backend:** Node.js, Express, MongoDB
 - **Tools:** Git, GitHub, Postman, Vercel, Netlify
 
-## 📂 Featured Projects
+📂 Featured Projects
+📝 MERN Todo List App ✅
+
+My first full MERN project!
+A personal todo list app with REST API backend and full CRUD functionality.
+
+Frontend: Deployed on Vercel
+Backend: REST API deployed on Bonto
+🌐 [Live Demo](https://todo-app-frontend-ko2xp0fvj-manish-sonwanis-projects.vercel.app/)  
+📁 [Frotend GitHub Repo](https://github.com/Manish1240/todo-app-frontend)
+📁 [Backend GitHub Repo](https://github.com/Manish1240/todo-app-backend)
 
 ### 🛒 MERN Product Store  
 A MERN stack app with CRUD operations and smooth UI using Framer Motion.  
